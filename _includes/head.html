@@ -6,6 +6,9 @@
   <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
-  
+
   <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" /> {% seo %}
+
+  <!-- Hack to put emoji as a favicon - https://css-tricks.com/emoji-as-a-favicon/ -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.favmoji }}</text></svg>">
 </head>

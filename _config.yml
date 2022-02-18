@@ -28,6 +28,7 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
+favmoji: "🌮"
 owner: "Ryan Miller"
 name: "taco.moe"
 year: "2022"
