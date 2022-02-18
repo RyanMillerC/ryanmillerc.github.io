@@ -29,6 +29,7 @@ plugins:
 
 # Custom variables
 favmoji: "🌮"
-owner: "Ryan Miller"
 name: "taco.moe"
+owner: "Ryan Miller"
+social_url: "https://twitter.com/RyanMillerC"
 year: "2022"
