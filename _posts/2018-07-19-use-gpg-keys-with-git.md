@@ -3,6 +3,9 @@ layout: post
 title: Use GPG Signing Keys with Git (and GitHub) on Windows 10
 ---
 
+**This is a repost from Medium - [Original
+Link](https://medium.com/@ryanmillerc/use-gpg-signing-keys-with-git-on-windows-10-github-4acbced49f68).**
+
 Setting up GPG keys with Git on Windows can be more difficult to configure than
 on Mac OS or Linux. Here's how to set it up.
 

@@ -3,6 +3,9 @@ layout: post
 title: Install Python 3 Alongside Python 2 on Windows 10
 ---
 
+**This is a repost from Medium - [Original
+Link](https://medium.com/@ryanmillerc/install-python-3-in-locally-in-appdata-alongside-python-2-in-windows-10-fe4287708429).**
+
 I recently needed to test an application at work with Python 3. It’s a hard
 requirement that I keep the ability to run Python 2 code for my job, so I
 installed Python 3 alongside my existing Python 2 installation. Since it
