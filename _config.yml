@@ -28,5 +28,6 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Ryan Miller"
-year : "2022"
+owner: "Ryan Miller"
+name: "taco.moe"
+year: "2022"
