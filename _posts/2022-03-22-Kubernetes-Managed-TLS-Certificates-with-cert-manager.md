@@ -3,7 +3,7 @@ layout: post
 title:  "Kubernetes-Managed TLS Certificates with cert-manager"
 ---
 
-I use sub-domains of `taco.moe` for everything in my homelab. One reason I do this is because I want valid [TLS](https://en.wikipedia.org/wiki/Public_key_certificate) certificates (don't want to deal with self-signed certs or manage a CA). 😅
+I use sub-domains of `taco.moe` for everything in my homelab. One reason I do this is because I want valid [TLS](https://en.wikipedia.org/wiki/Public_key_certificate) certificates (don't want to deal with self-signed certs or manage a CA).
 
 [Let's Encrypt](https://letsencrypt.org) provides free TLS certificates to anyone who can prove they own the domain they're requesting a certificate for. Domain validation is done through a *challenge*, either HTTP-based (host a file on your domain) or DNS-based (create a [TXT](https://en.wikipedia.org/wiki/TXT_record) record).
 
