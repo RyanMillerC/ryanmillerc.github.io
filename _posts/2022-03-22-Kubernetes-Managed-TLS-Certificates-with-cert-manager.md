@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kuberentes-Managed TLS Certificates with cert-manager"
+title:  "Kubernetes-Managed TLS Certificates with cert-manager"
 ---
 
 I use sub-domains of `taco.moe` for everything in my homelab. One reason I do this is because I want valid [TLS](https://en.wikipedia.org/wiki/Public_key_certificate) certificates (don't want to deal with self-signed certs or manage a CA). 😅
