@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Easy Local DNS Nameserver With Dnsmasq"
+---
+
 While some web-based applications can work with only an IP address, others require a vaild domain name. For local testing you might be able to get away with using your operating systems hosts file (`/etc/hosts`). If multiple machines need to access the application, it becomes an unnecessary challenge to keep a hosts file up to date across multiple systems. 
 
 *Dnsmasq* can provide a local nameserver for your  network. It supports forward and reverse lookups using entries from `/etc/hosts`. It can be run on a dedicated host or on an existing host provided port 53 (UDP) is available. (I run Dnsmasq on a host with multiple other applications on different ports!)
