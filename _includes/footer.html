@@ -1,10 +1,13 @@
 <footer>
   {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
-  <span>
-      <b>{{ site.owner}}</b> © {{ currentyear }}
-  </span>
-  <span> | </span>
-  <a href="{{ site.github_url }}">GitHub</a>
-  <span> | </span>
-  <a href="{{ site.linkedin_url }}">LinkedIn</a>
+  <div>
+    <span>
+        <b>{{ site.owner}}</b> © {{ currentyear }}
+    </span>
+  </div>
+  <div>
+    <a href="{{ site.github_url }}">GitHub</a>
+    <span> | </span>
+    <a href="{{ site.linkedin_url }}">LinkedIn</a>
+  </div>
 </footer>
