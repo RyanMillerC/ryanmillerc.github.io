@@ -31,5 +31,7 @@ plugins:
 favmoji: "🌮"
 name: "taco.moe"
 owner: "Ryan Miller"
-social_url: "https://twitter.com/RyanMillerC"
 year: "2022"
+
+github_url: "https://github.com/RyanMillerC"
+linkedin_url: "http://www.linkedin.com/in/millerryanc"
