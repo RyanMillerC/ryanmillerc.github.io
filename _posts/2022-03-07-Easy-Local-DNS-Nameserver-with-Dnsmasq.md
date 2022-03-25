@@ -82,7 +82,7 @@ $ systemctl restart dnsmasq
 
 ---
 
-**Discuss this post
+**Discuss this post on GitHub
 [here](https://github.com/RyanMillerC/taco.moe/discussions/1)**! Comments and
 feedback welcome.
 

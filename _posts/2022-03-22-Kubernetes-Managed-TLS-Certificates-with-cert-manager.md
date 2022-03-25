@@ -145,7 +145,7 @@ EOF
 ```
 ---
 
-**Discuss this post
+**Discuss this post on GitHub
 [here](https://github.com/RyanMillerC/taco.moe/discussions/2)**! Comments and
 feedback welcome.
 
