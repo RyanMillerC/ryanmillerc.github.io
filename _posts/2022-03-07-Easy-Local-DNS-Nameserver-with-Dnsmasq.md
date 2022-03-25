@@ -79,3 +79,11 @@ After creating or editing the above configuration, make sure to restart Dnsmasq 
 ```bash
 $ systemctl restart dnsmasq
 ```
+
+---
+
+**Discuss this post
+[here](https://github.com/RyanMillerC/taco.moe/discussions/1)**! Comments and
+feedback welcome.
+
+---

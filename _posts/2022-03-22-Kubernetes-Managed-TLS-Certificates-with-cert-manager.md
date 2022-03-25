@@ -143,6 +143,13 @@ spec:
   secretName: taco-moe-tls # Replace me
 EOF
 ```
+---
+
+**Discuss this post
+[here](https://github.com/RyanMillerC/taco.moe/discussions/2)**! Comments and
+feedback welcome.
+
+---
 
 *[CA]: Certificate Authority
 *[CRD]: Custom Resource Definition
