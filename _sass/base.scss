@@ -72,9 +72,7 @@ header h1 {
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  text-shadow: 0 0 5px rgba(119, 0, 0, 0.5);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
@@ -83,6 +81,7 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #a9a297;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
 /* Main Content
@@ -101,9 +100,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  text-shadow: 0 0 5px rgba(119, 0, 0, 0.5);
 }
 
 #main_content h1 {
@@ -167,7 +164,7 @@ code.highlighter-rouge {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
-  color: #aa759f;
+  color: #6a9fb5;
   border-radius: 2px;
 }
 
