@@ -1,5 +1,5 @@
 /*
-   original: https://github.com/pages-themes/hacker 
+   original: https://github.com/pages-themes/hacker
 */
 
 @import "rouge-base16-dark";
@@ -14,7 +14,7 @@ $blockquote-border: $dove-grey !default;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../assets/bkg.png") 0 0;
+  background-color: $body-background;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -50,7 +50,7 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.2);
   border-bottom: 1px dashed $conifer; //header;
   padding: 20px;
   margin: 0 0 40px 0;
@@ -82,7 +82,7 @@ header h1 {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #a9a297;
 }
 
 /* Main Content
