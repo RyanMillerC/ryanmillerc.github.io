@@ -44,3 +44,11 @@ To use the function: Add the above line to your `~/.bashrc`, reload your shell, 
 ```bash
 $ aws-profile account_a
 ```
+
+---
+
+**Discuss this post on GitHub
+[here](https://github.com/RyanMillerC/taco.moe/discussions/3)**! Comments and
+feedback welcome.
+
+---
