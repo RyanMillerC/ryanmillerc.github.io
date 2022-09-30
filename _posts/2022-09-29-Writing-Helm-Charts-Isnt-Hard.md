@@ -294,7 +294,7 @@ data:
 
 ## Describe variables in values.yaml ([d8d1951])
 
-```yaml
+```diff
 commit d8d19518575c2cc24bdb8eb321ac5f5ad59a900f
 Author: Ryan Miller <miller@redhat.com>
 Date:   Thu Sep 29 15:34:07 2022 -0400
