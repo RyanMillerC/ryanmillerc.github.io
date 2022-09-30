@@ -3,6 +3,8 @@ layout: post
 title:  "Writing Helm Charts Isn't Hard"
 ---
 
+{% raw %}
+
 Writing Helm charts shouldn't be hard.
 Most Helm tutorials have you start from a template created with `helm create chart-name`.
 The starter template is complicated and contains a bunch of YAML you probably don't need.
@@ -393,6 +395,8 @@ Happy Helming!
 feedback welcome.
 
 ---
+
+{% endraw %}
 
 [27fabec]: https://github.com/RyanMillerC/helm-101/commit/27fabec
 [8abe94b]: https://github.com/RyanMillerC/helm-101/commit/8abe94b
