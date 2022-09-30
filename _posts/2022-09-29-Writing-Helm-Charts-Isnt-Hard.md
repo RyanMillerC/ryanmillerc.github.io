@@ -386,6 +386,14 @@ The [Helm Chart Template Guide] is a great resource for writing Helm charts.
 
 Happy Helming!
 
+---
+
+**Discuss this post on GitHub
+[here](https://github.com/RyanMillerC/taco.moe/discussions/4)**! Comments and
+feedback welcome.
+
+---
+
 [27fabec]: https://github.com/RyanMillerC/helm-101/commit/27fabec
 [8abe94b]: https://github.com/RyanMillerC/helm-101/commit/8abe94b
 [Chart.yaml spec]: https://helm.sh/docs/topics/charts/#the-chartyaml-file
