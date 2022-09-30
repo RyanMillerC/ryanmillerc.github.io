@@ -36,7 +36,7 @@ Unless you explicitly set a namespace in a given manifest, k8s objects deployed 
 Helm uses Go templates.
 If you are familiar with Jinja or Liquid templates, Go templates should feel similar.
 
-**Anything wrapped in double brackets `{{ "{{ ... }}" }}` is evaluated when the Helm executable is called.**
+**Anything wrapped in double brackets `{{ ... }}` is evaluated when the Helm executable is called.**
 
 For example, you could inject the release name into a YAML manifest of a deployment with this:
 
