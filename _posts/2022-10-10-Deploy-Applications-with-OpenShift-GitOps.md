@@ -492,6 +492,14 @@ The [Argo CD Documentation] is the official reference for the open-source Argo
 CD project. The [OpenShift GitOps Documentation] is the official reference for
 the OpenShift GitOps Operator.
 
+---
+
+**Discuss this post on GitHub
+[here](https://github.com/RyanMillerC/taco.moe/discussions/5)**! Comments and
+feedback welcome.
+
+---
+
 {% endraw %}
 
 [Example GitOps Repo]: https://github.com/RyanMillerC/deploy-with-openshift-gitops
