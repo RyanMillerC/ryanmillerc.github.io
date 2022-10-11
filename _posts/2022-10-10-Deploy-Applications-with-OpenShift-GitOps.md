@@ -145,6 +145,12 @@ index 0000000..8b9f73d
 This commit adds a Helm chart for the example *theme-park-api* application.
 This will be deployed to the cluster using Argo CD in later commits.
 
+**The contents of this chart don't matter!** If you don't know Helm, that's ok.
+The only purpose of this chart is to have an example application to deploy with
+Argo.
+
+(**Bonus:** Check out [Writing Helm Charts isn't hard] for a primer on Helm.)
+
 ## Add namespace for theme-park-api under ./gitops ([7c226e5])
 
 ```diff
@@ -511,3 +517,4 @@ feedback welcome.
 [cdff420]: https://github.com/RyanMillerC/deploy-with-openshift-gitops/commit/cdff420
 [f76e2d1]: https://github.com/RyanMillerC/deploy-with-openshift-gitops/commit/f76e2d1
 [faf7545]: https://github.com/RyanMillerC/deploy-with-openshift-gitops/commit/faf7545
+[Writing Helm Charts isn't hard]: https://taco.moe/writing-helm-charts-isnt-hard
