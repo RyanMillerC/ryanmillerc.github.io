@@ -162,7 +162,7 @@ They will receive the `Access Denied` message and will not be redirected to Open
 ---
 
 **Discuss this post on GitHub
-[here](https://github.com/RyanMillerC/taco.moe/discussions/6)**! Comments and
+[here](https://github.com/RyanMillerC/taco.moe/discussions/8)**! Comments and
 feedback welcome.
 
 ---
