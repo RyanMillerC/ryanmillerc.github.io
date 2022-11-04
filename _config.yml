@@ -5,6 +5,7 @@ author:
   email: "miller@redhat.com"
   url: "https://taco.moe"
 
+url: "https://taco.moe"
 baseurl: /
 
 source: .
