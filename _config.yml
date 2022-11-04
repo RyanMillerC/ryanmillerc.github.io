@@ -1,8 +1,8 @@
 title: taco.moe
-description: "Technical blog of Ryan Miller. This site has nothing to do with tacos."
+description: "Technical blog of Ryan Miller. This site has nothing to do with tacos, sorry!"
 author:
   name: "Ryan Miller"
-  email: "ryan@devopsmachine.com"
+  email: "miller@redhat.com"
   url: "https://taco.moe"
 
 baseurl: /
