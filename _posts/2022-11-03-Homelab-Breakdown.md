@@ -168,7 +168,7 @@ machines.
 ---
 
 **Discuss this post on GitHub
-[here](https://github.com/RyanMillerC/taco.moe/discussions/6)**! Comments and
+[here](https://github.com/RyanMillerC/taco.moe/discussions/7)**! Comments and
 feedback welcome.
 
 ---
