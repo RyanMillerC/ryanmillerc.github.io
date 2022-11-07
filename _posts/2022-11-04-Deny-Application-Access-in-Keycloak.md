@@ -112,13 +112,13 @@ Once you create an initial flow, it's ok to copy that flow for other application
 
 ### Configure Execution Steps
 
-* Only two of the configurations steps need to be configured
-* Under *Actions*, configure the *Condition - User Role* execution step
+* Only two of the configuration steps added in the previous step need to be configured
+* Under *Actions*, configure the existing *Condition - User Role* execution step
 * Set the role to `ocp-user`
 
 ![Configure "Condition - User Role" execution step](assets/2022-11-04-Deny-Application-Access-in-Keycloak/08_condition_user_role_config.png)
 
-* Under *Actions*, configure the *Deny Access* execution step
+* Under *Actions*, configure the existing *Deny Access* execution step
 * Set the deny message to `Access Denied: User does not the the "ocp-user" role`
 
 ![Configure "Deny Access" execution step ](assets/2022-11-04-Deny-Application-Access-in-Keycloak/09_deny_user_config.png)
