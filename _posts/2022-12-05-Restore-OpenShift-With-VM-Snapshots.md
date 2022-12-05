@@ -91,7 +91,7 @@ oc get csr -o go-template='{{range .items}}{{if not .status}}{{.metadata.name}}{
 ---
 
 **Discuss this post on GitHub
-[here](https://github.com/RyanMillerC/taco.moe/discussions/9)**! Comments and
+[here](https://github.com/RyanMillerC/taco.moe/discussions/10)**! Comments and
 feedback welcome.
 
 ---
