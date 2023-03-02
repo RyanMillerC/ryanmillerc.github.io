@@ -3,9 +3,9 @@ description: "Technical blog of Ryan Miller. This site has nothing to do with ta
 author:
   name: "Ryan Miller"
   email: "miller@redhat.com"
-  url: "https://taco.moe"
+  url: "https://https://ryanmillerc.github.io"
 
-url: "https://taco.moe"
+url: "https://https://ryanmillerc.github.io"
 baseurl: /
 
 source: .
@@ -30,7 +30,8 @@ plugins:
 
 # Custom variables
 favmoji: "🌮"
-name: "taco.moe"
+header_title: "ryanmillerc@github.com:~ $"
+name: "Ryan's Blog"
 owner: "Ryan Miller"
 year: "2022"
 
